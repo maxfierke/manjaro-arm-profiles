@@ -1,0 +1,14 @@
+## Maintained by Max Fierke ##
+
+# Kernel and bootloader stuff
+linux-clockworkpi-a06
+uboot-clockworkpi-a06
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+
+# Other device specific packages
+btrfs-progs
+clockworkpi-a06-post-install
+
